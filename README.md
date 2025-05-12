@@ -42,25 +42,8 @@ To run the ByteCoin-iOS13 app on your local machine or device, follow these step
 
    Once the app is running, explore the intuitive user interface to fetch real-time cryptocurrency prices.
 
-## Configuration
-
-Customize the app based on your preferences by adjusting configuration files or settings within the Xcode project.
-
-## Dependencies
-
-This iOS app may have dependencies that need to be resolved. Ensure you have the necessary libraries and frameworks installed.
-
-## Contributing
-
-We welcome contributions to enhance and improve the ByteCoin-iOS13 app. Feel free to submit pull requests, report issues, or suggest improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Special thanks to the contributors and the open-source community.
-- The app may use external APIs for fetching real-time cryptocurrency prices.
 
-Happy coding and enjoy tracking cryptocurrency prices on your iOS 13 device!
